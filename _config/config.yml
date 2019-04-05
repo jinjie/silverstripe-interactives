@@ -4,3 +4,7 @@ Name: routes
 Director:
   rules:
     'int-act': 'InteractiveController'
+
+InteractiveClient:
+  extensions:
+    - 'Heyday\VersionedDataObjects\VersionedDataObject'
