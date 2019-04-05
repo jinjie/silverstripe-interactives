@@ -13,7 +13,8 @@
 	],
 	"require": {
 		"silverstripe/framework": "3.*",
-		"heyday/silverstripe-versioneddataobjects": "~2.0"
+		"heyday/silverstripe-versioneddataobjects": "~2.0",
+		"symbiote/silverstripe-multivaluefield": "^2"
 	},
 	"extra": {
 		"installer-name": "interactives",
